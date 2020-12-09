@@ -20,11 +20,12 @@ But in the future i would like to be a Senior Front-end (React) Developer!
 <img align="left" margin-left="5px" width="26px" alt="Json" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
 <img align="left" width="26px" alt="scss" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
-<img align="left" alt="jQuery" width="36px" src="https://www.pngitem.com/pimgs/m/171-1718331_jquery-logo-png-transparent-transparent-javascript-jquery-logo.png"/>
+[<img align="left" alt="jQuery" width="36px" src="https://www.pngitem.com/pimgs/m/171-1718331_jquery-logo-png-transparent-transparent-javascript-jquery-logo.png"/>][telegram]
 <br />
 <br />
 
 ***
 ### My Hobby 
-- :box: boxing
+- boxing
+- 
 
