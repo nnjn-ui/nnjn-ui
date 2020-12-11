@@ -27,4 +27,14 @@ But in the future i would like to be a Senior Front-end (React) Developer!
 - boxing
 - cooking
 
+***
+## 💪 My strengths
+- Fast learning
+- Communicative and friendly
+- Work underpressure
+- Logical thinking
+- Willingness to develop and determination
+
+
+
 
